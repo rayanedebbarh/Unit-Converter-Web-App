@@ -20,8 +20,13 @@ A simple web-based unit converter for:
 
 ## How to Run
 
-- Clone or download the repo
-- Open `index.html` in any browser
+To run this project, open the hosted web app in any browser—no installation required.
+
+👉 [Click here to use the Unit Converter Web App](file:///Users/rayanedrh/Unit-Converter-Web-App/index.html)
+
+If you want to run the project locally:
+1. Download or clone the repository
+2. Open the `index.html` file in any web browser (Chrome, Firefox, etc.)
 
 ## Author
 
